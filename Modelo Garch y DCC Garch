@@ -1,0 +1,4 @@
+BTCSP <- read.csv("C:/Users/Personal/Desktop/BTCSP.csv", sep=";")
+apple<-BTCSP
+head(apple)
+tail(apple)
